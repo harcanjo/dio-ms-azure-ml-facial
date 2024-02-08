@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "19a1d745-160c-4af6-b04a-7cb1cc8f645a",
+    "content-length": "184",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+        "text": "a woman holding a phone while shopping in a grocery store",
+        "confidence": 0.763221800327301
+    },
+    "metadata": {
+        "width": 1024,
+        "height": 682
+    }
+}
